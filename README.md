@@ -3,3 +3,6 @@ for r gänzung
 haha i did it
 hmm
 back again
+modified from RStudio
+
+
